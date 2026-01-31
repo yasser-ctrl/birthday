@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(211, 10, 134);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.frame{
+    margin-top: 25vh;
+    width: 50vw;
+    height: 55vh;
+    background-color: rgb(77, 13, 105);
+    border-radius: 20px;
+    border: 2px;
+    border-color: black;
+    
+    box-shadow: 2px 2px 5px black;
+    text-align: center;
+    color:aliceblue;
+    font-style: italic;
+}
+img{
+    width: 20vw;
+    height: 25vh;
+    margin-right: 10px;
+    border-radius: 20px;
+    margin-left: 10px;
+}
